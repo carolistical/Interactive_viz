@@ -6,7 +6,7 @@ import io
 #creating a header
 st.header("Scatter plot Weight VS dog intelligence")
 #reading the csv
-dog_intelligence = pd.read_csv("https://github.com/carolistical/Visualization1-scatterplot/blob/main/intelligence.csv")
+dog_intelligence = pd.read_csv("https://raw.githubusercontent.com/carolistical/Visualization1-scatterplot/main/intelligence.csv")
 #creating an if statement to show the data
 if st.checkbox("Show data"):
     dog_intelligence
