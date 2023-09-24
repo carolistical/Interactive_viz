@@ -3,7 +3,7 @@ import plotly.express as px
 import pandas as pd
 import io
 # Load your retail sales data
-retail_data = pd.read_csv("/Users/carolraydan/Desktop/retail_sales_data.csv")
+retail_data = pd.read_csv("https://raw.githubusercontent.com/carolistical/Visualization1-scatterplot/main/intelligence.csv")
 
 # Create a Streamlit app
 st.header('Bar Chart - Retail Sales Data')
