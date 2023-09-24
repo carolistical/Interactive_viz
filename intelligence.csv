@@ -1,0 +1,137 @@
+﻿Breed,height_low_inches,height_high_inches,average_weight,average_reps_to_learn_something
+Akita,26,28,100,3
+A0tolian Sheepdog,27,29,125,3
+Bernese Mountain Dog,23,27,98,3
+Bloodhound,24,26,100,3
+Borzoi,26,28,85,3
+Bullmastiff,25,27,115,3
+Great Dane,32,32,140,3
+Great Pyrenees,27,32,108,3
+Great Swiss Mountain Dog,23,28,140,3
+Irish Wolfhound,28,35,120,3
+Kuvasz,28,30,95,10
+Mastiff,27,30,183,10
+Neopolitan Mastiff,24,30,125,10
+Newfoundland,26,28,125,10
+Otter Hound,24,26,88,10
+Rottweiler,22,27,100,10
+Saint Ber0rd,25,28,150,10
+Afghan Hound,25,27,55,10
+Alaskan Malamute,0,0,0,10
+American Foxhound,22,25,68,10
+Beauceron,24,27,110,10
+Belgian Malinois,22,26,63,10
+Belgian Sheepdog,22,26,68,10
+Belgian Tervuren,22,26,68,10
+Black And Tan Coonhound,23,27,63,10
+Black Russian Terrier,25,29,110,10
+Bouvier Des Flandres,23,27,85,10
+Boxer,21,25,68,10
+Briard,23,27,75,10
+Chesapeake Bay Retriever,21,26,65,10
+Clumber Spaniel,19,20,50,10
+Collie (Rough) & (Smooth),22,26,63,21
+Curly Coated Retriever,25,27,73,21
+Doberman Pinscher,26,28,80,21
+English Foxhound,22,25,68,21
+English Setter,23,27,63,21
+German Shepherd Dog,22,26,83,21
+German Shorthaired Pointer,20,27,65,21
+German Wirehaired Pointer,22,26,65,21
+Giant Sch0uzer,25,28,73,21
+Golden Retriever,21,24,65,21
+Gordon Setter,23,27,63,21
+Greyhound,27,30,65,21
+Irish Setter,25,27,65,21
+Komondor,27,36,108,21
+Labrador Retriever,21,24,68,21
+Old English Sheepdog (Bobtail),20,24,63,21
+Poodle Standard,15,25,45,21
+Rhodesian Ridgeback,24,27,78,21
+Scottish Deerhound,28,32,93,21
+Spinone Italiano,23,28,73,21
+Tibetan Mastiff,24,26,155,21
+Weimaraner,25,27,78,21
+Airdale Terrier,22,24,45,21
+American Staffordshire Terrier,17,19,45,21
+American Water Spaniel,15,18,35,21
+Australian Cattle Dog,17,20,40,21
+Australian Shepherd,18,23,50,21
+Basset Hound,14,14,45,21
+Bearded Collie,20,22,50,21
+Border Collie,19,21,40,21
+Brittany,17,21,35,33
+Bull Dog,12,16,55,33
+Bull Terrier,21,22,60,33
+Ca0an Dog,19,24,45,33
+Chinese Shar Pei,18,20,50,33
+Chow Chow,19,22,50,33
+Cocker Spaniel-American,15,16,25,33
+Cocker Spaniel-English,15,17,30,33
+Dalmatian,19,23,58,33
+English Springer Spaniel,20,20,50,33
+Field Spaniel,18,18,43,33
+Flat Coated Retriever,22,23,65,33
+Finnish Spitz,15,20,33,33
+Harrier,19,21,50,33
+Ibizan Hound,22,29,49,33
+Irish Terrier,18,19,26,33
+Irish Water Spaniel,10,23,55,33
+Keeshond,17,19,43,33
+Kerry Blue Terrier,17,21,38,33
+Norwegian Elkhound,19,20,50,33
+Nova Scotia Duck Tolling Retriever,17,21,43,33
+Petit Basset Griffon Vendeen,13,15,35,33
+Pharaoh Hound,21,25,50,33
+Plott Hound,20,24,50,33
+Pointer,21,24,55,33
+Polish Lowland Sheepdog,16,20,33,33
+Portuguese Water Dog,20,23,51,33
+Redbone Coonhound,21,27,60,33
+Saluki,23,28,53,33
+Samoyed,19,24,58,33
+Siberian Husky,20,23,50,33
+Soft-Coated Wheaten Terrier,18,20,40,33
+Staffordshire Bull Terrier,14,16,26,33
+Standard Sch0uzer,17,19,33,33
+Sussex Spaniel,15,16,43,33
+Vizsla,48,66,24,33
+Welsh Springer Spaniel,16,19,40,33
+Wirehaired Pointing Griffon,20,24,53,33
+American Eskimo,9,19,28,33
+Australian Terrier,10,10,12,33
+Basenji,17,17,21,33
+Beagle,13,16,24,33
+Bedlington Terrier,15,16,21,61
+Bichon Frise,10,12,14,61
+Border Terrier,12,15,14,61
+Boston Terrier,14,15,20,61
+Brussels Griffon,7,8,9,61
+Cairn Terrier,9,10,14,61
+Cardigan Welsh Corgi,10,12,30,61
+Cavalier King Charles Spaniel,10,15,18,61
+Coton de Tulear,0,0,0,61
+Dachshund,7,10,24,61
+Dandie Dinmont Terrier,18,24,10,61
+English Toy Spaniel,10,10,12,61
+Fox Terrier â€“ Smooth,13,16,18,61
+Fox Terrier â€“ Wirehair,13,16,18,61
+French Bulldog,11,12,23,61
+German Pinscher,16,19,30,61
+Glen Imaal Terrier,14,14,35,61
+Lakeland Terrier,13,14,16,61
+Manchester Terrier (Standard),15,16,18,61
+Poodle Miniature,10,15,20,61
+Pug,10,11,18,61
+Puli,16,17,31,61
+Schipperke,10,13,15,91
+Scottish Terrier,10,12,20,91
+Sealyham Terrier,12,12,19,91
+Shetland Sheepdog (Sheltie),13,16,17,91
+Shiba Inu,13,16,23,91
+Shih Tzu,8,11,13,91
+Silky Terrier,9,10,10,91
+Skye Terrier,10,10,25,91
+Tibetan Spaniel,10,10,12,91
+Tibetan Terrier,14,17,25,91
+Welsh Terrier,15,15,21,91
