@@ -1,1 +1,1 @@
-# Visualization1-scatterplot: This Project is simply used to show KPI's of csv shown for monthly reporting. 
+# Visualization1-scatterplot: This Project is simply used to showcase a plot of the csv listed interactively 
